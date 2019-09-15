@@ -69,8 +69,8 @@ import pickle
 import json
 
 # Replace with your App's Client ID and Secret
-CLIENT_ID     = 'your-apps-client-id'
-CLIENT_SECRET = 'your-apps-client-secret'
+CLIENT_ID     = 'your-app-client-id'
+CLIENT_SECRET = 'your-app-client-secret'
 
 # If modifying these scopes, delete the file hstoken.pickle.
 SCOPES        = ['contacts']
