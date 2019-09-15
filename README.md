@@ -37,9 +37,9 @@ Run your app with the following command:
 
     $ python quickstart.py
 
-1. If this is the first run, the app open your browser connect your app to your HubSpot CRM. 
+1. If you are running the app for the first time, the app will open your browser and ask to connect to your HubSpot CRM. 
 
-> If will be asked to log in to your HubSpot account (if you're not logged in already). If you have more than one HubSpot CRM, you will be asked to select one account to use for the authorization.
+> Log in with your user account (if needed) and select the CRM account to use with your app.
 
 2. Click the Accept button.
 
