@@ -45,7 +45,7 @@ Run your app with the following command:
 
 3. Your app will continue automatically, and you may close the window/tab.
 
-**Done!** Your app will print data retrieved from your HubSpot CRM via API.
+**Done!** Your app will print the API response.
 
 
 ## Next...
