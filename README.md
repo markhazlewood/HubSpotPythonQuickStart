@@ -7,9 +7,9 @@ Follow these steps to create a simple Python command-line app that makes request
 To run this quickstart, you'll need:
 
 1. Python 2.6 or greater
-2. The [pip](https://pypi.python.org/pypi/pip) package management tool - To install libraries for managing OAuth.
+2. [pip](https://pypi.python.org/pypi/pip) package management tool - To install OAUTH management packages.
 3. A HubSpot Developer Account - To create your app credentials. [Signup for free Developer account here.](https://developers.hubspot.com/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git)
-4. A HubSpot CRM - To connect with your app. [Signup for a free CRM account here.](https://www.hubspot.com/products/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git) 
+4. A HubSpot CRM Account - To connect with your app. [Signup for a free CRM account here.](https://www.hubspot.com/products/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git) 
 
 ## Step 1: Create a HubSpot App
 
@@ -39,9 +39,9 @@ Run your app with the following command:
 
 1. If you are running the app for the first time, the app will open your browser and ask to connect to your HubSpot CRM. 
 
-> Log in with your user account (if needed) and select the CRM account to use with your app.
+> Log in with your user account (if needed) and, if you have multiple CRM accounts, select the account to use with your app.
 
-2. Click the Accept button.
+2. Click the `Grant Access` button.
 
 3. Your app will continue automatically, and you may close the window/tab.
 
