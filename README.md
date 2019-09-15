@@ -8,8 +8,8 @@ To run this quickstart, you'll need:
 
 1. Python 2.6 or greater
 2. The [pip](https://pypi.python.org/pypi/pip) package management tool - To install libraries for managing OAuth.
-3. HubSpot Developer Account - To create your app credentials. [Signup for free Developer account here.](https://developers.hubspot.com/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git)
-4. HubSpot CRM - To connect with your app. [Signup for a free CRM account here.](https://www.hubspot.com/products/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git) 
+3. A HubSpot Developer Account - To create your app credentials. [Signup for free Developer account here.](https://developers.hubspot.com/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git)
+4. A HubSpot CRM - To connect with your app. [Signup for a free CRM account here.](https://www.hubspot.com/products/get-started?utm_source=khlavka-hubspotquickstartpython&utm_medium=git) 
 
 ## Step 1: Create a HubSpot App
 
