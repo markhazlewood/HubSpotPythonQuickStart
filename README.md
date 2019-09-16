@@ -48,7 +48,7 @@ Run your app with the following command:
 **Done!** Your app will print the API response.
 
 
-## Next...
+## Try this next...
 
 * Get multiple records -- Update the `count` param in your request to fetch up to 100 records.
 * Create a Contact -- Via `.post` and the [Create or Update a Contact API](https://developers.hubspot.com/docs/methods/contacts/create_or_update).
