@@ -13,11 +13,14 @@ To run this quickstart, you'll need:
 
 ## Step 1: Create a HubSpot App
 
-From your **Developer Account**, create a new App to use with this quickstart.
+1. Open your **Developer Account** and browse to the Apps management page.
   
   > <a href="https://app.hubspot.com/l/developer/applications" target="_blank">Open your Developer App Manager</a> - Select your Developer Account on the next page.
 
-Copy your **Client ID** and **Client Secret** from your App's `Auth` tab.  You will need these for Step 3.
+2. click `Create App`. Give your app a name. 
+3. Copy your **Client ID** and **Client Secret** from your App's `Auth` tab.  You will need these for Step 3.
+
+Note: You only need the App Name, Client ID, and Client Secret to continue with the quickstart app.
 
 ## Step 2: Install required packages via `pip`
 
